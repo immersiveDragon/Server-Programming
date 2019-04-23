@@ -18,4 +18,12 @@ Research: Using WebStorm IDE for JavaScript, Created a simple Hello (Modified) p
 (David R. Brooks - An introduction to HTML and JavaScript for scientists and engineers-Springer (2007))
 & (Sammie Bae - JavaScript Data Structures and Algorithms_ An Introduction to Understanding and Implementing Core Data Structure 
 and Algorithm Fundamentals-Apress (2019))
-Presentation: By using the OBS
+Presentation: By using the OBS (Open Broadcaster Software)
+Record raw footage capturing display 2K 1440P 60Hz with 1080P 30Hz Logitech C920 Camera
+Add an intro (text title)
+Use No copyright sounds
+Edit the video using Da Vinci Resolve Software
+Record voice with the BM800 Microphone USB condenser powered by 48v Phantom Power
+(Super Computer with 32GB Ram // i7 6800K intel // GPU GTX Nvidia 1080)
+(Several attempts to create a Operating System in the Server)
+4/23/2019 Assignment
