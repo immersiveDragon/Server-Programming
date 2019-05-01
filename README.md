@@ -27,3 +27,9 @@ Record voice with the BM800 Microphone USB condenser powered by 48v Phantom Powe
 (Super Computer with 32GB Ram // i7 6800K intel // GPU GTX Nvidia 1080)
 (Several attempts to create a Operating System in the Server)
 4/23/2019 Assignment
+
+theapp was first created from html
+then transition to javascript
+then transition to react app
+in the final stages of react native
+5/1/2019 update
