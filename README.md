@@ -33,3 +33,17 @@ then transition to javascript
 then transition to react app
 in the final stages of react native
 5/1/2019 update
+
+Continue with research and development. Send an email to the instructor with a description of your activities and accomplishments since submitting the last assignment. Include a statement of what you plan to do next week.
+
+Due date: May 7, 2019
+
+Will continue using react native
+using this tutorial website (https://www.tutorialspoint.com/reactjs/reactjs_environment_setup.htm)
+reading this book 
+//An Introduction to Understanding
+//and Implementing Core Data
+//Structure and Algorithm
+//Fundamentals
+using the docs from (https://reactjs.org/docs/getting-started.html#learn-react)
+these are the narrow version of my continue research!
