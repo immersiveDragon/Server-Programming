@@ -48,3 +48,4 @@ reading this book
 using the docs from (https://reactjs.org/docs/getting-started.html#learn-react)
 these are the narrow version of my continue research!
 /* https://facebook.github.io/create-react-app/docs/getting-started  */
+(https://facebook.github.io/react-native/docs/getting-started.html) Keynote :: Project
