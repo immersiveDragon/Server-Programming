@@ -47,3 +47,4 @@ reading this book
 //Fundamentals
 using the docs from (https://reactjs.org/docs/getting-started.html#learn-react)
 these are the narrow version of my continue research!
+/* https://facebook.github.io/create-react-app/docs/getting-started  */
