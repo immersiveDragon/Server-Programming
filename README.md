@@ -49,3 +49,5 @@ using the docs from (https://reactjs.org/docs/getting-started.html#learn-react)
 these are the narrow version of my continue research!
 /* https://facebook.github.io/create-react-app/docs/getting-started  */
 (https://facebook.github.io/react-native/docs/getting-started.html) Keynote :: Project
+After some errors found a great website to pull through
+https://github.com/expo/expo-cli/issues/332
