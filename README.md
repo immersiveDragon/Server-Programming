@@ -51,3 +51,9 @@ these are the narrow version of my continue research!
 (https://facebook.github.io/react-native/docs/getting-started.html) Keynote :: Project
 After some errors found a great website to pull through
 https://github.com/expo/expo-cli/issues/332
+
+Continue with research and development. Send an email to the instructor with a description of your activities and accomplishments since submitting the last assignment. Include a link to your website or to your remote repository or both. Include a statement of what you plan to do next week.
+
+Due date: May 14, 2019
+Updating on my app. I've commited to react app. I've done some research on componets and following instructions on this guide here 
+https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size the app is comming out smoothly.
