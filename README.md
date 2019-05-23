@@ -57,3 +57,9 @@ Continue with research and development. Send an email to the instructor with a d
 Due date: May 14, 2019
 Updating on my app. I've commited to react app. I've done some research on componets and following instructions on this guide here 
 https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size the app is comming out smoothly.
+
+Assignment Seven
+Continue with research and development. Send an email to the instructor with a description of your activities and accomplishments since submitting the last assignment. Include a link to your website or to your remote repository or both. Include a statement of what you plan to do next week.
+
+Due date: May 21, 2019
+To make the video intresting, I thought of a plan, to first introduce building a PC - sorta like starting from scratch - then go into depth of coding in react app! I've sold my HP laptop and bought an ASUS ROG GL752VW. The battery can only hold a 2 HR charge so this is my first attpemt on repairing a laptop battery! hopefully the plan pays off and we can see a difference in the battery charge!
