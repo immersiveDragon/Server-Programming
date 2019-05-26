@@ -70,3 +70,5 @@ Final Assignment
 Meet with the instructor to review your learning achievements and determine a final course grade. Send an email to the instructor to set up this meeting.
 
 Due date for email: May 28.
+
+https://images.app.goo.gl/fxUW19kA8T93Bu7VA
