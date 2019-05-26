@@ -63,3 +63,6 @@ Continue with research and development. Send an email to the instructor with a d
 
 Due date: May 21, 2019
 To make the video intresting, I thought of a plan, to first introduce building a PC - sorta like starting from scratch - then go into depth of coding in react app! I've sold my HP laptop and bought an ASUS ROG GL752VW. The battery can only hold a 2 HR charge so this is my first attpemt on repairing a laptop battery! hopefully the plan pays off and we can see a difference in the battery charge!
+
+Update on the project::
+Completion https://youtu.be/KAvz5rL2Mg8
