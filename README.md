@@ -66,3 +66,7 @@ To make the video intresting, I thought of a plan, to first introduce building a
 
 Update on the project::
 Completion https://youtu.be/KAvz5rL2Mg8
+Final Assignment
+Meet with the instructor to review your learning achievements and determine a final course grade. Send an email to the instructor to set up this meeting.
+
+Due date for email: May 28.
