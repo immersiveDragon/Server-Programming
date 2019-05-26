@@ -72,3 +72,5 @@ Meet with the instructor to review your learning achievements and determine a fi
 Due date for email: May 28.
 
 https://images.app.goo.gl/fxUW19kA8T93Bu7VA
+
+Some improvements::I could of use a better microphone so I therefore bought a blue yeti microphone for the next project. I think overall its a solid video, a great video, the best that I can master. (The audio quality kinda moves in and out but will be updated on the next time with the new hardware) I think the video still holds on to the next level since I implemented subtitles and visual concepts.
